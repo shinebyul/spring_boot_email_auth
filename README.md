@@ -1,5 +1,8 @@
 # spring_boot_email_auth
-spring project - 이메일 인증 기능
+## spring project - 이메일 인증 기능 구현하기📬
+
+### 블로그
+[스프링 프로젝트 - 이메일 인증 기능 구현하기(+SMTP,IMAP)](https://shinebyul.tistory.com/59)
 
 ### 기술 스택
 - Web서버 : nginx
